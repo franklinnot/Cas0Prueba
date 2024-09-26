@@ -1,1 +1,1 @@
-print "Jelou xd"
+print ("Jelou xd")
